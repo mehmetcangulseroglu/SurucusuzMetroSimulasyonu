@@ -36,7 +36,7 @@ A* algoritması, **en hızlı rotayı** bulmak için kullanılır. Bir **heurist
 A*, Dijkstra’ya kıyasla **daha hızlı** çalışır çünkü yalnızca **en umut verici yolları** genişletir.
 
 ##  Örnek Kullanım ve Test Sonuçları
-![Örnek Kullanım ve Test Sonuçları](images.png)
+![Örnek Kullanım ve Test Sonuçları](örnek.png)
 
 ## Projeyi Geliştirme Fikirleri
 Görselleştirme için bir arayüz geliştirilebilir.
